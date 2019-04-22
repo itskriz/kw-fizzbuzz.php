@@ -16,5 +16,5 @@ To generate default FizzBuzz results (range 1-100, fizz 3, buzz 5);
 
 You can customize the range, fizz, and buzz values by passing parameters to the function:
 ```
-<?php print_r( $min, $max, $fizz, $buzz  ); ?>
+<?php print_r( $min, $max, $fizz, $buzz ); ?>
 ```
